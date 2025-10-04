@@ -1,0 +1,4 @@
+b=float(input("Enter the base of triangle in cm :"))
+h=float(input("Enter the height of triangle in cm :"))
+area=0.5*b*h
+print("area of traingle is : ",area,"cm^2")

@@ -1,0 +1,8 @@
+'''a=2
+b=4.25
+sum=a+b
+print(sum)
+print(type(a))'''
+a=
+b=float(
+print(a==b)
